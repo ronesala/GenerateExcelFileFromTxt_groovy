@@ -1,0 +1,11 @@
+// test comment. This is an example how info should be formatted in this file. This will add an empty row in generated excel file
+FROG_TYPE_1 = "Green Tree Frog"
+FROG_TYPE_2 = "Red-eyed Tree Frog"
+FROG_TYPE_3 = "Dart Frog"
+FROG_TYPE_4 = "American Bullfrog"
+FROG_TYPE_5 = "Glass Frog"
+FROG_TYPE_6 = "Wood Frog"
+FROG_TYPE_7 = "Poison Dart Frog"
+FROG_TYPE_8 = "Goliath Frog"
+FROG_TYPE_9 = "African Bullfrog"
+FROG_TYPE_10 = "Golden Poison Frog"
